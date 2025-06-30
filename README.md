@@ -4,7 +4,7 @@
 
 SpinSight combines advanced computer vision, physics modeling, and machine learning to predict roulette outcomes with unprecedented accuracy, giving you a genuine edge at the table.
 
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+[![License](https://img.shields.io/badge/license-Commercial-blue.svg)](https://www.spinsight.ai/pricing)
 [![Website](https://img.shields.io/badge/website-spinsight.ai-brightgreen.svg)](https://www.spinsight.ai)
 [![Documentation](https://img.shields.io/badge/docs-latest-orange.svg)](https://www.spinsight.ai/docs)
 
@@ -35,7 +35,7 @@ For comprehensive documentation, visit [spinsight.ai/docs](https://www.spinsight
 
 ## License
 
-SpinSight is licensed under the MIT License. See [LICENSE](LICENSE) for more information.
+SpinSight is licensed under a Commercial License. Purchase of a license is required for use. See [LICENSE](LICENSE) for more information or visit [spinsight.ai/pricing](https://www.spinsight.ai/pricing) for pricing and terms.
 
 ## Support
 
