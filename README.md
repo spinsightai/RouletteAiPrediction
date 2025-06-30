@@ -1,6 +1,6 @@
 # SpinSight: AI Roulette Prediction Software
 
-![SpinSight AI Roulette Prediction](https://www.spinsight.ai/prediction-screen.png)
+![SpinSight AI Roulette Prediction](https://www.spinsight.ai/hero.webm)
 
 SpinSight combines advanced computer vision, physics modeling, and machine learning to predict roulette outcomes with unprecedented accuracy, giving you a genuine edge at the table.
 
