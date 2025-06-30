@@ -3,11 +3,6 @@
 ![SpinSight AI Roulette Prediction](./thumbnail3.png)
 
 SpinSight combines advanced computer vision, physics modeling, and machine learning to predict roulette outcomes with unprecedented accuracy, giving you a genuine edge at the table.
-<div align="center">
-  <a href="https://www.spinsight.ai">
-    <img src="https://img.shields.io/badge/🎮%20START%20WINNING%20NOW-Visit%20SpinSight.ai-2ea44f?style=for-the-badge" alt="START WINNING NOW - Visit SpinSight.ai">
-  </a>
-</div>
 
 [![License](https://img.shields.io/badge/license-Commercial-blue.svg)](https://www.spinsight.ai/pricing)
 [![Website](https://img.shields.io/badge/website-spinsight.ai-brightgreen.svg)](https://www.spinsight.ai)
