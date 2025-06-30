@@ -54,7 +54,6 @@ SpinSight leverages the science of roulette physics and AI to predict outcomes:
 
 - Windows 10 or 11 operating system
 - Internet connection
-- Online casino account
 
 ## Documentation
 
